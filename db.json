@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Volkswagen","color":"Teal"},
+{"id":2,"name":"Saturn","color":"Indigo"},
+{"id":3,"name":"Daihatsu","color":"Crimson"},
+{"id":4,"name":"BMW","color":"Khaki"},
+{"id":5,"name":"Pontiac","color":"Violet"},
+{"id":6,"name":"Ford","color":"Yellow"},
+{"id":7,"name":"Mitsubishi","color":"Teal"},
+{"id":8,"name":"Mitsubishi","color":"Yellow"},
+{"id":9,"name":"Chevrolet","color":"Crimson"},
+{"id":10,"name":"Dodge","color":"Crimson"},
+{"id":11,"name":"Ford","color":"Fuscia"},
+{"id":12,"name":"Dodge","color":"Pink"},
+{"id":13,"name":"Chevrolet","color":"Mauv"},
+{"id":14,"name":"Acura","color":"Pink"},
+{"id":15,"name":"Audi","color":"Crimson"},
+{"id":16,"name":"Buick","color":"Aquamarine"},
+{"id":17,"name":"Mazda","color":"Orange"},
+{"id":18,"name":"Dodge","color":"Orange"},
+{"id":19,"name":"Lexus","color":"Purple"},
+{"id":20,"name":"Mercury","color":"Blue"}
+]
+}
